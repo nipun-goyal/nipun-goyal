@@ -9,7 +9,7 @@ Nipun is a Data Scientist currently building Image Classification model to class
 
 [![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nipun-goyal&show_icons=true&count_private=true&theme=merko&show_icons=true)](https://github.com/nipun-goyal)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nipun-goyal&theme=gruvbox)](https://github.com/nipun-goyal)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nipun-goyal&theme=merko)](https://github.com/nipun-goyal)
 
 <!--
 **nipun-goyal/nipun-goyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
