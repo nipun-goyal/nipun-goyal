@@ -5,7 +5,7 @@
 -  Data Scientist at [CER](https://www.cer-rec.gc.ca/en/)
 -  Participant at [FSDL 2022](https://fullstackdeeplearning.com/)
 
-I'm Nipun Goyal, Data Scientist at Canada Energy Regulator. I've studied Data Science and Machine Learning from University of British Columbia, based in Vancouver, Canada. My areas of interest include Machine Learning, Natural Language Processing and Neural Networks. I currently working on OCR text extraction from British Columbia Flooding Images to create impactful geo-spatial dataset. My passion to grow ML/AI community drives me to create easy to access and skill based machine learning and natural language processing solutions at CER. Outside of work, I take keen interest in Formula 1, Snooker, House Music and Stock Markets & Finance.
+I'm Nipun Goyal, Data Scientist at Canada Energy Regulator. I've studied Data Science and Machine Learning from University of British Columbia, based in Vancouver, Canada. My areas of interest include Machine Learning, Natural Language Processing and Neural Networks. I am currently working on OCR text extraction from British Columbia Flooding Images to create impactful geo-spatial dataset. My passion to grow ML/AI community drives me to create easy to access and skill based machine learning and natural language processing solutions at CER. Outside of work, I take keen interest in Formula 1, Snooker, House Music and Stock Markets & Finance.
 
 [![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nipun-goyal&show_icons=true&count_private=true&theme=merko&show_icons=true)](https://github.com/nipun-goyal)
 
