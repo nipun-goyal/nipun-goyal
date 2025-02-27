@@ -2,7 +2,7 @@
 
 ![Profile View Count](https://komarev.com/ghpvc/?username=nipun-goyal&color=green)
 
-I'm Nipun Goyal, Data Scientist at [Canada Energy Regulator (CER)](https://www.cer-rec.gc.ca/en/). I've studied Data Science and Machine Learning from University of British Columbia, based in Vancouver, Canada. My areas of interest include Machine Learning, Natural Language Processing and Neural Networks. Outside of work, I take keen interest in Formula 1, Snooker, House Music and Stock Markets & Finance.
+I'm Nipun Goyal, Data Scientist at [Canada Energy Regulator (CER)](https://www.cer-rec.gc.ca/en/). I've studied Data Science and Machine Learning from University of British Columbia, based in Vancouver, Canada. My areas of interest include Machine Learning, Natural Language Processing and Neural Networks. Outside of work, I take keen interest in Cycling, Skiing, Cryptos, NFTs, Formula 1, Snooker, House Music and Stock Markets & Finance.
 
 [![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nipun-goyal&show_icons=true&count_private=true&theme=merko&show_icons=true)](https://github.com/nipun-goyal)
 
